@@ -1,0 +1,27 @@
+# Node.js
+codeflix-client/node_modules/
+
+# Next.js build output
+codeflix-client/.next/
+
+# Environment variables
+codeflix-client/.env.local
+codeflix-client/.env.development.local
+codeflix-client/.env.test.local
+codeflix-client/.env.production.local
+
+# Log files
+codeflix-client/npm-debug.log*
+codeflix-client/yarn-debug.log*
+codeflix-client/yarn-error.log*
+
+# Editor files
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Build artifacts
+codeflix-client/out/
