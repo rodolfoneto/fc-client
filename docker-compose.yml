@@ -4,5 +4,4 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      - .:/app
-    command: tail -f /dev/null
+      - ./fc-client:/app
